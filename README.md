@@ -2,7 +2,7 @@
 ## A chrome extension which pops up jokes when clicked on it!
 
 ### 1. Used icanhazdadjoke.com API for fetching jokes in random order.
-### 2. Used json, html and css files for extension visible on chrome.
+### 2. Used json, html, css and javascript for creating the extension.
 
 
 
